@@ -1,0 +1,3 @@
+- for loops will loop a specifc number of times.
+- The range() function called with one, two, or three arguments.
+- break and continue can be used in for loops.
