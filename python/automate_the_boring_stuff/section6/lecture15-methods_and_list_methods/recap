@@ -1,0 +1,10 @@
+- Methods are functions that all "called on" values.
+- The index() list method returns the index of an item in the list.
+- The append() list method adds a value to the end of a list.
+- The insert() list method adds a value anywhere inside a list.
+- The remove() list method removes an item, specified by the value, from a list.
+- The del keyword can be used to remove an item by giving the index value.
+- The sort() list method sorts the items in a list.
+- The sort() method's reverse=True keyword arugment can sort in reverse order.
+- Sorting happens in "ASCII-betical" order. To sort normally, pass key=str.lower.
+- The list methods operate on the list "in place", rather than returning a new list value.
